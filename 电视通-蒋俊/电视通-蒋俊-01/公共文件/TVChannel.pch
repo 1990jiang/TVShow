@@ -1,0 +1,88 @@
+//
+//  TVChannel.pch
+//  电视通-蒋俊-01
+//
+//  Created by rimi on 16/7/6.
+//  Copyright © 2016年 rimi. All rights reserved.
+//
+
+#ifndef TVChannel_pch
+#define TVChannel_pch
+
+
+//1.获取屏幕宽度与高度
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREENH_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+//2.颜色RGBA
+#define JJColorA(r,g,b,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)/255.0]
+
+//3.封装的宏，以后用随机色就写这个就好
+#define JJColor(r,g,b) JJColorA((r),(g),(b),255)
+
+#define JJRandomColor JJColor(arc4random_uniform(255),arc4random_uniform(255),arc4random_uniform(255))
+
+//4.位置和大小的分类
+#import "UIView+XMGExtenion.h"
+
+
+//5.电视频道列表请求地址
+
+#define ChannelTVURL @"http://api.avatardata.cn/TVTime/LookUp"
+
+//6.AppKey
+
+#define AppKey @"6fb428281e4d4780a0abe5796c1f4393"
+
+
+//7.网络请求三方
+#import "AFNetworking.h"
+
+//8.数组字典转模型
+#import "MJExtension.h"
+
+//9.电视节目详情请求
+#define ChannelDetailsURL @"http://api.avatardata.cn/TVTime/TVlist"
+
+//10.频道详情界面
+#import "JJDetailsChannelViewController.h"
+
+//11.影视搜索的appKey
+#define MovieAppKey @"cf25af150f1b448d82e982046337f8e5"
+
+//12.影视搜索的地址
+#define MovieURL @"http://apis.haoservice.com/lifeservice/video/v"
+
+
+//13导入FMDB
+#import "FMDB.h"
+
+//14 单例
+#import "MJSingle.h"
+
+//15制作圆形图片的分类
+#import "UIImage+XMGExtenion.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif /* TVChannel_pch */

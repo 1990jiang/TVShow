@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-1 综合</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv1</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv1</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-2 财经</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv2</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv2</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-3 综艺</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv3</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv3</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-4 (亚洲)</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv4</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv4</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-4 (欧洲)</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctveurope</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctveurope</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-4 (美洲)</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvamerica</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvamerica</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-5 体育</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv5</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv5</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-6 电影</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv6</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv6</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-7 军事农业</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv7</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv7</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-8 电视剧</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv8</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv8</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-9 纪录</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvjilu</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvjilu</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-9 纪录(英)</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvdoc</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvdoc</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-10 科教</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv10</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv10</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-11 戏曲</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv11</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv11</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-12 社会与法</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv12</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv12</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-13 新闻</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv13</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv13</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-14 少儿</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvchild</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvchild</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-15 音乐</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv15</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv15</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-NEWS</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv9</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv9</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-Français</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvfrench</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvfrench</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-Español</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvxiyu</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvxiyu</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-العربية</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvarabic</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvarabic</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV-Русский</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctvrussian</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctvrussian</string>
+	</dict>
+	<dict>
+		<key>channelName</key>
+		<string>CCTV体育赛事</string>
+		<key>pId</key>
+		<string>1</string>
+		<key>rel</key>
+		<string>cctv5plus</string>
+		<key>url</key>
+		<string>http://tv.cntv.cn/live/cctv5plus</string>
+	</dict>
+</array>
+</plist>
